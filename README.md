@@ -1,4 +1,4 @@
-Here’s a detailed README file for your **Automatic Parking Space Detection and Counting System** project:
+
 
 ```markdown
 # Automatic Parking Space Detection and Counting System

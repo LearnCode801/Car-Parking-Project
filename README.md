@@ -1,4 +1,4 @@
-
+![Project Screenshot](https://github.com/LearnCode801/Car-Parking-Project/blob/main/Screenshot%202024-10-30%20163554.png)
 
 ```markdown
 # Automatic Parking Space Detection and Counting System
@@ -87,5 +87,3 @@ This project automates parking space detection and counting in video footage usi
 
 
 ```
-
-Replace `https://<github_repo_url>` and `[Your Name](your-linkedin-url)` with your actual GitHub repository URL and your LinkedIn profile link. Let me know if you need further modifications!

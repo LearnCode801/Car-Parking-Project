@@ -86,5 +86,7 @@ This project automates parking space detection and counting in video footage usi
 - Consider refining parameters in the image processing pipeline (thresholding, blur levels) for optimal performance with your specific video footage.
 - Extend functionality to display parking availability in real-time, log data for analysis, or integrate with a parking management system.
 
+## 🎬 Project Demo
 
+[![Project Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://lnkd.in/https://drive.google.com/file/d/1JRUFJWwlyeVxO2iasAxI0ReJ1ncZEXsv/view?usp=drive_link)
 ```

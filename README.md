@@ -1,7 +1,8 @@
+# Automatic Parking Space Detection and Counting System
+
 ![Project Screenshot](https://github.com/LearnCode801/Car-Parking-Project/blob/main/Screenshot%202024-10-30%20163554.png)
 
 
-# Automatic Parking Space Detection and Counting System
 
 ## Description
 

@@ -63,7 +63,7 @@ This project automates parking space detection and counting in video footage usi
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://<github_repo_url>
+   git clone https://github.com/LearnCode801/Car-Parking-Project>
    ```
 
 ### Run the Script

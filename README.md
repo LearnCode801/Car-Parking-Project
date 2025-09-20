@@ -1,6 +1,6 @@
 ![Project Screenshot](https://github.com/LearnCode801/Car-Parking-Project/blob/main/Screenshot%202024-10-30%20163554.png)
 
-```markdown
+
 # Automatic Parking Space Detection and Counting System
 
 ## Description

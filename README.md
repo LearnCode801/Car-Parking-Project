@@ -1,4 +1,7 @@
 # Automatic Parking Space Detection and Counting System
+## 🎬 Project Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1JRUFJWwlyeVxO2iasAxI0ReJ1ncZEXsv/view?usp=sharing)
 
 ![Project Screenshot](https://github.com/LearnCode801/Car-Parking-Project/blob/main/Screenshot%202024-10-30%20163554.png)
 
@@ -86,7 +89,5 @@ This project automates parking space detection and counting in video footage usi
 - Consider refining parameters in the image processing pipeline (thresholding, blur levels) for optimal performance with your specific video footage.
 - Extend functionality to display parking availability in real-time, log data for analysis, or integrate with a parking management system.
 
-## 🎬 Project Demo
 
-[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1JRUFJWwlyeVxO2iasAxI0ReJ1ncZEXsv/view?usp=sharing)
 ```
